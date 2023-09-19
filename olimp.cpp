@@ -3,7 +3,7 @@
 using namespace std;
 int main() {
     vector <int> mass;
-    int n=45, k=1, f=1, p, y;
+    int n=1000, k=1, f=1, p, y;
     mass.push_back(k);
     mass.push_back(f);
     for(int i=2; i<n; i++){
